@@ -1,0 +1,16 @@
+# VSCode
+.idea
+
+# PLEASE Build
+plz-out
+.plzconfig.local
+
+# Build
+target
+dist
+
+# Environment variables
+.env
+
+# Node
+node_modules
